@@ -3,6 +3,7 @@
 
 [Download Full Paper (PDF)](https://1drv.ms/b/c/c380f5bd504a8460/EXR-FwKGo5BAsl9IOJ9rV4wBifLug1F14v4VDV-fXvsgbg?e=Yo14BF)  
 [View Presentation (Slides)](https://1drv.ms/b/c/c380f5bd504a8460/ESaofM8ZlupFniaj5yjYnbMB7ufl_izh6UeG_63Usg7k-Q?e=m3G9tY)  
+[Open Colab Notebook](https://colab.research.google.com/drive/1ix_-NjEL1oIdEWuPtt8vdlq01WDzAXgQ?usp=sharing)  
 
 ---
 
